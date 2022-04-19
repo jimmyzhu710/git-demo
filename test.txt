@@ -5,3 +5,4 @@ hello master
 
 hot-fix test
 new line
+add from local
